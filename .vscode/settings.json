@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.sls": "jinja",
+        "stdio.h": "c",
+        "lstk.h": "c",
+        "string.h": "c",
+        "livm.h": "c",
+        "stdlib.h": "c",
+        "lloader.h": "c"
+    }
+}
